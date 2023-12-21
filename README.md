@@ -11,7 +11,7 @@ This is a simple controller use to control hero's chassis. It only be used as a 
 The source code is released under a [BSD 3-Clase license](LICENSE).
 
 **Author: Nanobotbff<br />
-Affiliation: [GDUT](https://www.gdut.com/)<br />
+Affiliation: [GDUT](https://www.gdut.edu.cn/)<br />
 Maintainer: Nanobotbff, 3225724826@qq.com**
 
 The PACKAGE NAME package has been tested under Noetic on respectively Ubuntu
