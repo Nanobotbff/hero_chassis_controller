@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: hero_chassis_controller
+Description: Description of hero_chassis_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

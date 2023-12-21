@@ -1,0 +1,8 @@
+prefix=/home/gm/catkin_ws/src/hero_chassis_controller/cmake-build-debug/devel
+
+Name: hero_chassis_controller
+Description: Description of hero_chassis_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
