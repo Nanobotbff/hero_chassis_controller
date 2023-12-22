@@ -14,7 +14,7 @@ The source code is released under a [BSD 3-Clase license](LICENSE).
 Affiliation: [GDUT](https://www.gdut.edu.cn/)<br />
 Maintainer: Nanobotbff, 3225724826@qq.com**
 
-The PACKAGE NAME package has been tested under Noetic on respectively Ubuntu
+The hero_chassis_controller package has been tested under Noetic on respectively Ubuntu
 20.04. This is pratise code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 ![Example image](doc/example.png)

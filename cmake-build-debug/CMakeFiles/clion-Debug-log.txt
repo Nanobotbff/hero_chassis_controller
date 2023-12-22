@@ -8,7 +8,7 @@ CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
 
 
 -- Using CATKIN_DEVEL_PREFIX: /home/gm/catkin_ws/src/hero_chassis_controller/cmake-build-debug/devel
--- Using CMAKE_PREFIX_PATH: /home/gm/catkin_ws/src/devel;/home/gm/catkin_ws/devel;/opt/ros/noetic;/opt/ros/noetic/share
+-- Using CMAKE_PREFIX_PATH: /home/gm/catkin_ws/src/devel;/home/gm/catkin_ws/devel;/opt/ros/noetic;/opt/ros/noetic/share;/opt/ros/noetic/lib
 -- This workspace overlays: /home/gm/catkin_ws/src/devel;/opt/ros/noetic
 CMake Warning (dev) at /opt/ros/noetic/share/catkin/cmake/python.cmake:4 (find_package):
   Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules

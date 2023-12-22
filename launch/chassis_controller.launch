@@ -17,24 +17,24 @@
     <!-- push robot_description to factory and spawn robot in gazebo -->
     <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" clear_params="true"
           args="-z 0.5 -param robot_description -urdf -model hero" output="screen"/>
-<!--      <node pkg="hero_chassis_controller" type="chassis_controller_node" name="chassis_controller_node" output="screen"> -->
-<!--        <rosparam> -->
-<!--          right_back_wheel: -->
-<!--            p: 1.0 -->
-<!--            i: 0.0 -->
-<!--            d: 0.0 -->
-<!--          left_back_wheel: -->
-<!--            p: 1.0 -->
-<!--            i: 0.0 -->
-<!--            d: 0.0 -->
-<!--          left_front_wheel: -->
-<!--            p:1.0 -->
-<!--           i: 0.0 -->
-<!--           d: 0.0 -->
-<!--         right_front_wheel: -->
-<!--           p: 1.0 -->
-<!--           i: 0.0 -->
-<!--           d: 0.0 -->
-<!--       </rosparam> -->
-<!--      </node> -->
+     <node pkg="hero_chassis_controller" type="chassis_controller_node" name="chassis_controller_node" output="screen">
+       <rosparam>
+         right_back_wheel:
+           p: 1.0
+           i: 0.0
+           d: 0.0
+         left_back_wheel:
+           p: 1.0
+           i: 0.0
+           d: 0.0
+         left_front_wheel:
+           p:1.0
+          i: 0.0
+          d: 0.0
+        right_front_wheel:
+          p: 1.0
+          i: 0.0
+          d: 0.0
+      </rosparam>
+     </node>
    </launch>
